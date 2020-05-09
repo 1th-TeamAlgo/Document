@@ -46,7 +46,7 @@
   - *Cho, gyu*:
 
 - **Server, Machine Learning Developers**
-  - *Kim, Mun-seong*: 없어
+  - *Kim, Mun-seong*: [E-mail](mailto:chyin370@naver.com), [GitHub](https://github.com/getch37)
   - *Kim, Taek-youn*: [Blog](https://taxijjang.tistory.com), [GitHub](https://github.com/taxijjang)
   - *Oh, Jin-seon*: [Blog](https://ohjinjin.github.io/), [GitHub](https://github.com/ohjinjin)
   - *Jeon, Byeong-moo:[Blog](https://byeongmoo.tistory.com/), [GitHub](https://github.com/jbm2593)
