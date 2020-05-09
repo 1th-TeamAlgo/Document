@@ -31,6 +31,9 @@
 **Software Stack**
 ![software stack](/images/software_stack.png)
 
+**External Storage**
+[Google Drive - 슬기로운공부생활](https://drive.google.com/drive/folders/1c73r8tay_c4sA5vNs_hEHLdTq4ZWuolu)
+
 ---
 
 ### Members
