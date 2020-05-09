@@ -14,6 +14,11 @@
 
 - [Google Drive - 슬기로운공부생활](https://drive.google.com/drive/folders/1c73r8tay_c4sA5vNs_hEHLdTq4ZWuolu)
 
+**Repository for each part**
+
+- [Android part](https://github.com/wisestudy/wisestudy-android)
+- [Server part](https://github.com/wisestudy/wisestudy-server)
+
 ## Environment
 
 **System Architecture**
