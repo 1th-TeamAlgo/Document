@@ -48,7 +48,7 @@
   - *Lee, Woon-gi*: [Blog](https://mynamewoon.tistory.com/manage/posts), [GitHub](https://github.com/leewoongi)
   - *Lee, dong-woo*: [Blog](https://edw216.github.io/), [GitHub](https://github.com/edw216)
   - *Hong, jong-hyun*: [Blog](https://comcompu.tistory.com/), [GitHub](https://github.com/jonghyunH)
-  - *Cho, gyu*:
+  - *Cho, gyu-jin*:[Blog](https://chogyujin-study.tistory.com/), [GitHub](https://github.com/GyuJin-Cho)
 
 - **Server, Machine Learning Developers**
   - *Kim, Mun-seong*: [E-mail](mailto:chyin370@naver.com), [GitHub](https://github.com/getch37)
