@@ -31,9 +31,10 @@
   - JSON Object Mapper: Gson
   - Image Loader: Glide
 - **Server**
-  - Web Server: Nginx x.x.x
+  - Web Server: Nginx 1.17
   - Web Application Framework: Django x.x.x
-  - Database: MySQL x.x.x,
+  - Database: MySQL 5.7.30
+  - Language: Python 3.6
 - **Specify Process**
   - Machine Learning: Scikit-learn (with. Collaboration Filtering Algorithm)
 
@@ -51,7 +52,7 @@
   - *Cho, gyu-jin*:[Blog](https://chogyujin-study.tistory.com/), [GitHub](https://github.com/GyuJin-Cho)
 
 - **Server, Machine Learning Developers**
-  - *Kim, Mun-seong*: [E-mail](mailto:chyin370@naver.com), [GitHub](https://github.com/getch37)
+  - *Kim, Mun-seong*: [E-mail](mailto:chyin370@naver.com), [GitHub](https://github.com/getch37) [Blog](https://velog.io/@chyin370)
   - *Kim, Taek-youn*: [Blog](https://taxijjang.tistory.com), [GitHub](https://github.com/taxijjang)
   - *Oh, Jin-seon*: [Blog](https://ohjinjin.github.io/), [GitHub](https://github.com/ohjinjin)
   - *Jeon, Byeong-moo:[Blog](https://byeongmoo.tistory.com/), [GitHub](https://github.com/jbm2593)
