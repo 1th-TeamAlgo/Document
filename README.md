@@ -36,7 +36,10 @@
   - Database: MySQL 5.7.30
   - Cache : Redis
   - Language: Python 3.7
-
+- **AWS**
+  - Ec2
+  - S3
+  - RDS
 
 **Software Stack**
 ![software stack](/images/software_stack.png)
